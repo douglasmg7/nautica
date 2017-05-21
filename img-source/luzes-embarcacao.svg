@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="luzes-embarcacao.svg"
+   inkscape:export-filename="/home/douglasmg7/workspace/nautica/img/luzes-navegacao.png"
+   inkscape:export-xdpi="89.936852"
+   inkscape:export-ydpi="89.936852">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient10498"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff8200;stop-opacity:1;"
+         offset="0"
+         id="stop10500" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2450811"
+     inkscape:cx="466.68526"
+     inkscape:cy="305.39005"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5250-7"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false">
+    <sodipodi:guide
+       position="212.40218,696.27025"
+       orientation="1,0"
+       id="guide4991" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="290.35541"
+       y="803.20477"
+       id="text5296"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5298"
+         x="290.35541"
+         y="803.20477" /></text>
+    <g
+       transform="matrix(0.2966313,0.06319242,-0.06319242,0.2966313,285.74118,508.49934)"
+       id="g10787">
+      <g
+         id="g5115">
+        <text
+           transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+           sodipodi:linespacing="125%"
+           id="text5296-5"
+           y="1009.3245"
+           x="107.06841"
+           style="font-style:normal;font-weight:normal;font-size:131.88798523px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="1009.3245"
+             x="107.06841"
+             id="tspan5298-9"
+             sodipodi:role="line" /></text>
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.52745271;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect5200"
+           width="1536.9229"
+           height="1733.5498"
+           x="-181.85413"
+           y="-118.49816"
+           transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)" />
+        <g
+           id="g5250">
+          <text
+             transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+             sodipodi:linespacing="125%"
+             id="text4481"
+             y="299.54633"
+             x="-127.06994"
+             style="font-style:normal;font-weight:normal;font-size:49.45799637px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="299.54633"
+               x="-127.06994"
+               id="tspan4483"
+               sodipodi:role="line">Navegação restrita</tspan></text>
+          <g
+             transform="translate(-87.776789,-373.90339)"
+             id="g5231">
+            <rect
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09811771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect5229"
+               width="5.496285"
+               height="213.34897"
+               x="66.281265"
+               y="391.68414"
+               transform="matrix(0.97805264,-0.20835795,0.20835803,0.97805262,0,0)" />
+            <circle
+               style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path5202"
+               transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+               cx="68.495468"
+               cy="396.66943"
+               r="24.161459" />
+            <circle
+               style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path5202-3"
+               cx="68.495461"
+               cy="512.24066"
+               r="24.161459"
+               transform="matrix(0.97805262,-0.20835803,0.20835803,0.97805262,0,0)" />
+            <circle
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path5202-0"
+               cx="68.495461"
+               cy="454.45505"
+               r="24.161459"
+               transform="matrix(0.97805262,-0.20835803,0.20835803,0.97805262,0,0)" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:49.45799637px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="524.91199"
+           y="286.83459"
+           id="text4481-8"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan4483-6"
+             x="524.91199"
+             y="286.83459">Encalhada ou</tspan><tspan
+             sodipodi:role="line"
+             x="524.91199"
+             y="348.6571"
+             id="tspan5575"> sem governo</tspan></text>
+        <g
+           id="g5231-8"
+           transform="translate(547.24727,-522.18181)">
+          <rect
+             transform="matrix(0.97805264,-0.20835795,0.20835803,0.97805262,0,0)"
+             y="391.68414"
+             x="66.281265"
+             height="213.34897"
+             width="5.496285"
+             id="rect5229-8"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09811771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             r="24.161459"
+             cy="396.66943"
+             cx="68.495468"
+             transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+             id="path5202-4"
+             style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             transform="matrix(0.97805262,-0.20835803,0.20835803,0.97805262,0,0)"
+             r="24.161459"
+             cy="512.24066"
+             cx="68.495461"
+             id="path5202-3-3"
+             style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <g
+           transform="translate(139.56355,436.51746)"
+           id="g5250-2">
+          <text
+             transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+             sodipodi:linespacing="125%"
+             id="text4481-0"
+             y="299.54633"
+             x="-127.06994"
+             style="font-style:normal;font-weight:normal;font-size:49.45799637px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="299.54633"
+               x="-127.06994"
+               id="tspan4483-68"
+               sodipodi:role="line">Transporte de carga perigosa</tspan></text>
+          <g
+             transform="translate(-87.776789,-373.90339)"
+             id="g5231-9">
+            <rect
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09811771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect5229-2"
+               width="5.496285"
+               height="213.34897"
+               x="66.281265"
+               y="391.68414"
+               transform="matrix(0.97805264,-0.20835795,0.20835803,0.97805262,0,0)" />
+            <circle
+               style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path5202-6"
+               transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+               cx="68.495468"
+               cy="396.66943"
+               r="24.161459" />
+          </g>
+        </g>
+        <g
+           transform="translate(1027.2208,396.33499)"
+           id="g5250-9">
+          <text
+             transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+             sodipodi:linespacing="125%"
+             id="text4481-5"
+             y="299.54633"
+             x="-127.06994"
+             style="font-style:normal;font-weight:normal;font-size:49.45799637px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="299.54633"
+               x="-127.06994"
+               id="tspan4483-0"
+               sodipodi:role="line">Pesca de arrasto</tspan></text>
+          <g
+             transform="translate(-87.776789,-373.90339)"
+             id="g5231-4">
+            <rect
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09811771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect5229-87"
+               width="5.496285"
+               height="213.34897"
+               x="66.281265"
+               y="391.68414"
+               transform="matrix(0.97805264,-0.20835795,0.20835803,0.97805262,0,0)" />
+            <circle
+               style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path5202-1"
+               transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+               cx="68.495468"
+               cy="396.66943"
+               r="24.161459" />
+            <circle
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path5202-0-2"
+               cx="68.495461"
+               cy="454.45505"
+               r="24.161459"
+               transform="matrix(0.97805262,-0.20835803,0.20835803,0.97805262,0,0)" />
+          </g>
+        </g>
+        <g
+           transform="translate(349.19654,835.9059)"
+           id="g5250-7">
+          <text
+             transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+             sodipodi:linespacing="125%"
+             id="text4481-2"
+             y="299.54633"
+             x="-127.06994"
+             style="font-style:normal;font-weight:normal;font-size:49.45799637px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="299.54633"
+               x="-127.06994"
+               id="tspan4483-2"
+               sodipodi:role="line">Fundeada</tspan><tspan
+               y="361.36884"
+               x="-127.06994"
+               sodipodi:role="line"
+               id="tspan5577">  &lt; 50m</tspan></text>
+          <g
+             transform="translate(-87.776789,-373.90339)"
+             id="g5231-6">
+            <rect
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09811771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect5229-1"
+               width="5.496285"
+               height="213.34897"
+               x="66.281265"
+               y="391.68414"
+               transform="matrix(0.97805264,-0.20835795,0.20835803,0.97805262,0,0)" />
+            <circle
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path5202-06"
+               transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+               cx="68.495468"
+               cy="396.66943"
+               r="24.161459" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:49.45799637px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="389.75241"
+           y="1274.1033"
+           id="text4481-5-4"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan4483-0-9"
+             x="389.75241"
+             y="1274.1033">Varredura de mina</tspan></text>
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09811771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect5229-87-9"
+           width="5.496285"
+           height="213.34897"
+           x="575.15906"
+           y="982.25488"
+           transform="matrix(0.97805264,-0.20835795,0.20835803,0.97805262,0,0)" />
+        <circle
+           style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path5202-1-1"
+           transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+           cx="577.37329"
+           cy="987.24017"
+           r="24.161459" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09811771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect5229-87-9-7"
+           width="5.496285"
+           height="213.34895"
+           x="1050.4403"
+           y="-685.88251"
+           transform="matrix(0.20835803,0.97805262,-0.97805262,0.20835803,0,0)" />
+        <circle
+           style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path5202-1-1-1"
+           cx="665.29993"
+           cy="1051.6816"
+           r="24.161459"
+           transform="matrix(0.97805262,-0.20835803,0.20835803,0.97805262,0,0)" />
+        <circle
+           style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path5202-1-1-15"
+           cx="493.16815"
+           cy="1050.3837"
+           r="24.161459"
+           transform="matrix(0.97805262,-0.20835803,0.20835803,0.97805262,0,0)" />
+        <g
+           transform="translate(1060.5918,-160.93205)"
+           id="g5250-7-9">
+          <text
+             transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+             sodipodi:linespacing="125%"
+             id="text4481-2-7"
+             y="294.24997"
+             x="-71.458145"
+             style="font-style:normal;font-weight:normal;font-size:49.45799637px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="294.24997"
+               x="-71.458145"
+               id="tspan4483-2-7"
+               sodipodi:role="line">Hovercraft</tspan></text>
+          <g
+             transform="translate(-87.776789,-373.90339)"
+             id="g5231-6-6">
+            <rect
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09811771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect5229-1-7"
+               width="5.496285"
+               height="213.34897"
+               x="66.281265"
+               y="391.68414"
+               transform="matrix(0.97805264,-0.20835795,0.20835803,0.97805262,0,0)" />
+            <circle
+               style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#ffff00;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path5202-06-3"
+               transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+               cx="68.495468"
+               cy="396.66943"
+               r="24.161459" />
+          </g>
+        </g>
+        <g
+           transform="translate(1225.3538,805.78213)"
+           id="g5250-9-6">
+          <text
+             transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+             sodipodi:linespacing="125%"
+             id="text4481-5-5"
+             y="299.54633"
+             x="-127.06994"
+             style="font-style:normal;font-weight:normal;font-size:49.45799637px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="299.54633"
+               x="-127.06994"
+               id="tspan4483-0-6"
+               sodipodi:role="line">   Pesca sem </tspan><tspan
+               y="361.36884"
+               x="-127.06994"
+               sodipodi:role="line"
+               id="tspan5569">ser de arrasto</tspan></text>
+          <g
+             transform="translate(-87.776789,-373.90339)"
+             id="g5231-4-3">
+            <rect
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09811771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect5229-87-94"
+               width="5.496285"
+               height="213.34897"
+               x="66.281265"
+               y="391.68414"
+               transform="matrix(0.97805264,-0.20835795,0.20835803,0.97805262,0,0)" />
+            <circle
+               style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path5202-1-8"
+               transform="matrix(0.97805262,-0.20835802,0.20835802,0.97805262,0,0)"
+               cx="68.495468"
+               cy="396.66943"
+               r="24.161459" />
+            <circle
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4.01106358;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path5202-0-2-1"
+               cx="68.495461"
+               cy="454.45505"
+               r="24.161459"
+               transform="matrix(0.97805262,-0.20835803,0.20835803,0.97805262,0,0)" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
