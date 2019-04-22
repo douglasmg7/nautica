@@ -36,56 +36,81 @@ Aquele que navega (navegador, marinheiro).
 ## Métodos para determinação da posição da embarcação no mar
 
 ### Visual
-* Obtenção da posição da embarcação com base em pontos notáveis em terra ou na costa.
-* Utilizada na navegação costeira.
+
+Obtenção da posição da embarcação com base em pontos notáveis em terra ou na costa.
+
+Utilizada na navegação costeira.
 
 ### Estimada
-* Método aproximado de navegação.
-* Pode ser à vista de terra ou não.
-* Obtenção da posição da embarcação em função de outra posição já conhecida, utilizando-se o rumo, velocidade e o intervalo de tempo entre as posições.
+
+Método aproximado de navegação.
+
+Pode ser à vista de terra ou não.
+
+Obtenção da posição da embarcação em função de outra posição já conhecida, utilizando-se o rumo, velocidade e o intervalo de tempo entre as posições.
 
 ### Astronômica
-* Obtenção da posição da embarcação pela observação da posição dos astros (sol, lua, estrelas e planetas).
-* Normalmente só é utilizada em alto-mar na navegação oceânica.
+
+Obtenção da posição da embarcação pela observação da posição dos astros (sol, lua, estrelas e planetas).
+
+Normalmente só é utilizada em alto-mar na navegação oceânica.
 
 ### Eletrônica
-* Obtenção da posição da embarcação com auxílio de equipamentos eletrônicos, tais como radar, radiogoniômetro, GPS, ecobatímetro e outros.
+
+Obtenção da posição da embarcação com auxílio de equipamentos eletrônicos, tais como radar, radiogoniômetro, GPS, ecobatímetro e outros.
 
 ## Pontos cardeais
-N - Norte.
-S - Sul.
-E - Leste, lado que o sol nasce.
-W - Oeste, lado que o sol se pôe.
+
+* N - Norte.
+* S - Sul.
+* E - Leste, lado que o sol nasce.
+* W - Oeste, lado que o sol se pôe.
 
 ## Pontos colaterais
+
 São os pontos intermediários localizados entre os pontos cardeais.
-NE - Nordeste.
-SE - Sudeste.
-SW - Sudoeste.
-NW - Noroeste.
+
+* NE - Nordeste.
+* SE - Sudeste.
+* SW - Sudoeste.
+* NW - Noroeste.
 
-Pontos subcolaterais
+## Pontos subcolaterais
+
 São os pontos intermediários localizados entre os pontos cardeais e colaterais.
-NNE - Norte-nordeste.
-ENE - Este-nordeste.
-ESE - Este-sudeste.
-SSE - Sul-sudeste.
-SSW - Sul-sudoeste.
-WSW - Oeste-sudoeste.
-WNW - Oeste-noroeste.
-NNW - Norte-noroeste.
-Rosa dos ventos
+
+* NNE - Norte-nordeste.
+* ENE - Este-nordeste.
+* ESE - Este-sudeste.
+* SSE - Sul-sudeste.
+* SSW - Sul-sudoeste.
+* WSW - Oeste-sudoeste.
+* WNW - Oeste-noroeste.
+* NNW - Norte-noroeste.
+
+## Rosa dos ventos
+
 Conhecida também como rosa circular ou rosa de rumos.
+
 Formado pelos pontos cardeais, colaterais e subcolaterais.
+
 Graduação de 0 a 360 graus no sentido horário.
-Círculo máximo
+
+## Círculo máximo
+
 Cortes da esfera terrestre que o plano passa no centro da mesma.
+
 Equador - círculo máximo horizontal - latitude 0.
+
 Todos os meridianos - círculos máximos verticais.
-Círculos menores
+
+## Círculos menores
+
 Cortes da esfera terrestre que o plano não passa pelo centro.
+
 Todos os paralelos - círcluos menores horizontais.
-Paralelos
+
+## Paralelos
 Determinam as latitudes.
 Equador é o paralelo 00° e único dos paralelos que é um círculo máximo.
 Vão de 00°-90°N e 00°-90°S.
