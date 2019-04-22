@@ -1,12 +1,12 @@
 # Mestre Amador
 
-## Fundamentos da nabegação
+## Fundamentos da navegação
 
 ### Navegação
 É a ciência e a arte de conduzir uma embarcação de um ponto a outro da superfície da terra com segurança.
 
 ### Pontos notáveis
-São pontos conhecidos e devidamente representados nas Carta Náuticas, tais como pontas, cabos, ilhas, faróis, torres, edificações e etc.
+São pontos conhecidos e devidamente representados nas cartas náuticas, tais como pontas, cabos, ilhas, faróis, torres, edificações e etc.
 
 ### Águas rasas
 Se refere ao lugar em que a água é de pouca profundidade, podendo ser perigoso para embarcações de maior calado.
@@ -104,22 +104,24 @@ São os pontos intermediários localizados entre os pontos cardeais e colaterais
 * Antimeridiano é o meridiano 180°.
 * Vão de 000°-180°E e 000°-180°W.
 
-Coordenadas geográficas
-Sempre india a latitude e depois a longitude.
-Grau(°), Minuto(‘), Segundo(“).
-Um minuto (‘) equivale a uma milha náutica (1.852m).
-Lat. 29°57’03”S
-Long. 050°30’23”W
-Diferença de latitude
-Caminho em latitude.
-É a distância angular tomada ao longo de um meridiano qualquer, entre os paralelos que passam por dois pontos determinados.
-No cálculo da diferença de latitude
-Hemisférios diferentes
-Somamos as duas latitudes.
-Hemisférios iguais
-Subtraímos as duas latitudes.
-Não tem a letra que indica o hemisfério.
-Latitude média entre dois lugares
+### Coordenadas geográficas
+* Sempre india a latitude e depois a longitude.
+* Grau(°), Minuto(‘), Segundo(“).
+* Um minuto (‘) equivale a uma milha náutica (1.852m).
+* Lat. 29°57’03”S
+* Long. 050°30’23”W
+
+### Diferença de latitude
+* Caminho em latitude.
+* É a distância angular tomada ao longo de um meridiano qualquer, entre os paralelos que passam por dois pontos determinados.
+* No cálculo da diferença de latitude
+    * Hemisférios diferentes
+        * Somamos as duas latitudes.
+    * Hemisférios iguais
+        * Subtraímos as duas latitudes.
+* Não tem a letra que indica o hemisfério.
+
+### Latitude média entre dois lugares
 É a latitude do paralelo médio entre dois pontos de latitudes diferentes.
 No cálculo de latitude média
 Hemisférios iguais
