@@ -9,39 +9,39 @@ São pontos conhecidos e devidamente representados nas Carta Náuticas, tais com
 ## Águas rasas
 Se refere ao lugar em que a água é de pouca profundidade, podendo ser perigoso para embarcações de maior calado.
 
-## Nauta
+### Nauta
 Aquele que navega (navegador, marinheiro).
 
-## Tipos de navegação
+### Tipos de navegação
 
-### Águas restritas (interior) - Arrais amador, veleiro e motonauta
+#### Águas restritas (interior) - Arrais amador, veleiro e motonauta
 * Navegação praticada em águas consideradas abrigadas (interior de portos, baías, canais, rios, lagos e lagoas).
 * Também utilizada próximo à costa (ou perigo mais próximo).
 * A menos de 3 milhas náuticas da costa.
 * Tipo de navegação que exige maior precisão.
 * Permitido para carteiras de arrais amador, veleiro e motonauta.
 
-### Costeira (cabotagem) - Mestre amador
+#### Costeira (cabotagem) - Mestre amador
 * Navegação praticada ao longo da costa, entre portos nacionais e estrangeiros.
 * Dentro dos limites de visibilidade da costa.
 * Não exceder a distância de 20 milhas náuticas da costa.
 * De 3 a 20NM da costa.
 * A posição da embarcação é determinada visualmente tomando-se como referência os pontos notáveis em terra.
 
-### Oceânica (longo curso)
+#### Oceânica (longo curso)
 * Realizada fora dos limites de visibilidade da costa.
 * Além de 20 milhas náuticas da costa.
 * Suficientemente afastada de terra e áreas de tráfego nas quais o perigos de águas rasas e de abalroamento são relativamente pequenos.
 
-## Métodos para determinação da posição da embarcação no mar
+### Métodos para determinação da posição da embarcação no mar
 
-### Visual
+#### Visual
 
 Obtenção da posição da embarcação com base em pontos notáveis em terra ou na costa.
 
 Utilizada na navegação costeira.
 
-### Estimada
+#### Estimada
 
 Método aproximado de navegação.
 
@@ -49,17 +49,17 @@ Pode ser à vista de terra ou não.
 
 Obtenção da posição da embarcação em função de outra posição já conhecida, utilizando-se o rumo, velocidade e o intervalo de tempo entre as posições.
 
-### Astronômica
+#### Astronômica
 
 Obtenção da posição da embarcação pela observação da posição dos astros (sol, lua, estrelas e planetas).
 
 Normalmente só é utilizada em alto-mar na navegação oceânica.
 
-### Eletrônica
+#### Eletrônica
 
 Obtenção da posição da embarcação com auxílio de equipamentos eletrônicos, tais como radar, radiogoniômetro, GPS, ecobatímetro e outros.
 
-## Pontos cardeais
+### Pontos cardeais
 
 * N - Norte.
 * S - Sul.
