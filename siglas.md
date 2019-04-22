@@ -38,3 +38,8 @@ Raster Nautic Charter - Cartas Náuticas Raster
 
 ### NR
 Nível de Redução
+
+### IC-ENC
+Centro Internacional de Cartas Náuticas Eletrônicas
+www.ic-enc.org
+www.primar.no

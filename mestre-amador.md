@@ -95,14 +95,14 @@ São os pontos intermediários localizados entre os pontos cardeais e colaterais
 ### Paralelos
 * Determinam as latitudes.
 * Equador é o paralelo 00° e único dos paralelos que é um círculo máximo.
-* Vão de 00°-90°N e 00°-90°S.
+* Vão de 00° a 90°N e 00° a 90°S.
 
 ### Meridianos
 * Determinam as longitudes.
 * São todos círculos máximos.
 * Greenwich é o meridiano 000°.
 * Antimeridiano é o meridiano 180°.
-* Vão de 000°-180°E e 000°-180°W.
+* Vão de 000° a 180°E e 000° a 180°W.
 
 ### Coordenadas geográficas
 * Sempre india a latitude e depois a longitude.
@@ -160,7 +160,7 @@ São os pontos intermediários localizados entre os pontos cardeais e colaterais
 * Na projeção Mercator é uma linha curva, logo tendo variação do rumo.
 * De difícil marcação nas cartas.
 
-###Loxodromia
+### Loxodromia
 * Linha de rumo.
 * É uma linha que faz sempre o mesmo ângulo com todos os meridianos (ângulos iguais).
 * Na projeção Mercator é uma espiral que tende para os polos.
@@ -180,7 +180,7 @@ São os pontos intermediários localizados entre os pontos cardeais e colaterais
 
 ### Derrota
 * Conjunto de rumos traçada em uma carta de navegação.
-* Caminho seguido pela embarcação.
+* Rumo ou caminho seguido pela embarcação.
 
 ### Enfiamento
 * É o alinhamento de dois pontos em terra.
@@ -332,3 +332,23 @@ Pela série Traub em uma carta náutica, verifica-se a existência de corrente.
 
 ### Singradura
 É a derrota efetuada por uma embarcação em determinado tempo.
+
+
+## Publicações de auxílio à navegação
+Editado pela DNH.
+
+### Catálogo de cartas e pulblicações
+Relaciona todas as cartas náuticas, publicações e impressos em geral, editados pela DHN.
+É um catálogo dividito em quatro partes.
+
+#### Parte 1
+Tráz a relação de todas as cartas publicadas (Marítimas, Fluviais, Lacustres, Especiais e Meteorológicas).
+
+#### Parte 2
+Apresenta os 20 ínidices em que as cartas são distribuidas. Cada índice contém uma relação detalhada das cartas do trecho representado, com área de abrangência, título, escala e o ano da primeira e da última edição, a fim de dar ao navegante ciência do estado de atualização das cartas.
+
+#### Parte 3
+Relaciona todas as publicações e impressos editados pela DHN, de interesse exclusivo à navegação.
+
+#### Parte 4
+Relaciona todas as cartas eletrônicas da DNH disponíveis para aquisiçã junto ao Centro Internacional de Cartas Náuticas Eletrônicas.
