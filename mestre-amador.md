@@ -1,12 +1,14 @@
 # Mestre Amador
 
-## Navegação
+## Fundamentos da nabegação
+
+### Navegação
 É a ciência e a arte de conduzir uma embarcação de um ponto a outro da superfície da terra com segurança.
 
-## Pontos notáveis
+### Pontos notáveis
 São pontos conhecidos e devidamente representados nas Carta Náuticas, tais como pontas, cabos, ilhas, faróis, torres, edificações e etc.
 
-## Águas rasas
+### Águas rasas
 Se refere ao lugar em que a água é de pouca profundidade, podendo ser perigoso para embarcações de maior calado.
 
 ### Nauta
@@ -14,31 +16,30 @@ Aquele que navega (navegador, marinheiro).
 
 ### Tipos de navegação
 
-#### Águas restritas (interior) - Arrais amador, veleiro e motonauta
-* Navegação praticada em águas consideradas abrigadas (interior de portos, baías, canais, rios, lagos e lagoas).
-* Também utilizada próximo à costa (ou perigo mais próximo).
-* A menos de 3 milhas náuticas da costa.
-* Tipo de navegação que exige maior precisão.
-* Permitido para carteiras de arrais amador, veleiro e motonauta.
+* Águas restritas (interior) - Arrais amador, veleiro e motonauta
+    * Navegação praticada em águas consideradas abrigadas (interior de portos, baías, canais, rios, lagos e lagoas).
+    * Também utilizada próximo à costa (ou perigo mais próximo).
+    * A menos de 3 milhas náuticas da costa.
+    * Tipo de navegação que exige maior precisão.
+    * Permitido para carteiras de arrais amador, veleiro e motonauta.
 
-#### Costeira (cabotagem) - Mestre amador
-* Navegação praticada ao longo da costa, entre portos nacionais e estrangeiros.
-* Dentro dos limites de visibilidade da costa.
-* Não exceder a distância de 20 milhas náuticas da costa.
-* De 3 a 20NM da costa.
-* A posição da embarcação é determinada visualmente tomando-se como referência os pontos notáveis em terra.
+* Costeira (cabotagem) - Mestre amador
+    * Navegação praticada ao longo da costa, entre portos nacionais e estrangeiros.
+    * Dentro dos limites de visibilidade da costa.
+    * Não exceder a distância de 20 milhas náuticas da costa.
+    * De 3 a 20NM da costa.
+    * A posição da embarcação é determinada visualmente tomando-se como referência os pontos notáveis em terra.
 
-#### Oceânica (longo curso)
-* Realizada fora dos limites de visibilidade da costa.
-* Além de 20 milhas náuticas da costa.
-* Suficientemente afastada de terra e áreas de tráfego nas quais o perigos de águas rasas e de abalroamento são relativamente pequenos.
+* Oceânica (longo curso)
+    * Realizada fora dos limites de visibilidade da costa.
+    * Além de 20 milhas náuticas da costa.
+    * Suficientemente afastada de terra e áreas de tráfego nas quais o perigos de águas rasas e de abalroamento são relativamente pequenos.
 
 ### Métodos para determinação da posição da embarcação no mar
 
 #### Visual
 
-Obtenção da posição da embarcação com base em pontos notáveis em terra ou na costa.
-
+Obtenção da posição da embarcação com base em pontos notáveis em terra ou na costa. 
 Utilizada na navegação costeira.
 
 #### Estimada
