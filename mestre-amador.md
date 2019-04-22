@@ -16,24 +16,24 @@ Aquele que navega (navegador, marinheiro).
 
 ### Tipos de navegação
 
-* Águas restritas (interior) - Arrais amador, veleiro e motonauta
-    * Navegação praticada em águas consideradas abrigadas (interior de portos, baías, canais, rios, lagos e lagoas).
-    * Também utilizada próximo à costa (ou perigo mais próximo).
-    * A menos de 3 milhas náuticas da costa.
-    * Tipo de navegação que exige maior precisão.
-    * Permitido para carteiras de arrais amador, veleiro e motonauta.
+#### Águas restritas (interior) - Arrais amador, veleiro e motonauta
+* Navegação praticada em águas consideradas abrigadas (interior de portos, baías, canais, rios, lagos e lagoas).
+* Também utilizada próximo à costa (ou perigo mais próximo).
+* A menos de 3 milhas náuticas da costa.
+* Tipo de navegação que exige maior precisão.
+* Permitido para carteiras de arrais amador, veleiro e motonauta.
 
-* Costeira (cabotagem) - Mestre amador
-    * Navegação praticada ao longo da costa, entre portos nacionais e estrangeiros.
-    * Dentro dos limites de visibilidade da costa.
-    * Não exceder a distância de 20 milhas náuticas da costa.
-    * De 3 a 20NM da costa.
-    * A posição da embarcação é determinada visualmente tomando-se como referência os pontos notáveis em terra.
+#### Costeira (cabotagem) - Mestre amador
+* Navegação praticada ao longo da costa, entre portos nacionais e estrangeiros.
+* Dentro dos limites de visibilidade da costa.
+* Não exceder a distância de 20 milhas náuticas da costa.
+* De 3 a 20NM da costa.
+* A posição da embarcação é determinada visualmente tomando-se como referência os pontos notáveis em terra.
 
-* Oceânica (longo curso)
-    * Realizada fora dos limites de visibilidade da costa.
-    * Além de 20 milhas náuticas da costa.
-    * Suficientemente afastada de terra e áreas de tráfego nas quais o perigos de águas rasas e de abalroamento são relativamente pequenos.
+#### Oceânica (longo curso)
+* Realizada fora dos limites de visibilidade da costa.
+* Além de 20 milhas náuticas da costa.
+* Suficientemente afastada de terra e áreas de tráfego nas quais o perigos de águas rasas e de abalroamento são relativamente pequenos.
 
 ### Métodos para determinação da posição da embarcação no mar
 
@@ -42,43 +42,32 @@ Aquele que navega (navegador, marinheiro).
 * Utilizada na navegação costeira.
 
 #### Estimada
-
-Método aproximado de navegação.
-
-Pode ser à vista de terra ou não.
-
-Obtenção da posição da embarcação em função de outra posição já conhecida, utilizando-se o rumo, velocidade e o intervalo de tempo entre as posições.
+* Método aproximado de navegação.
+* Pode ser à vista de terra ou não.
+* Obtenção da posição da embarcação em função de outra posição já conhecida, utilizando-se o rumo, velocidade e o intervalo de tempo entre as posições.
 
 #### Astronômica
-
-Obtenção da posição da embarcação pela observação da posição dos astros (sol, lua, estrelas e planetas).
-
-Normalmente só é utilizada em alto-mar na navegação oceânica.
+* Obtenção da posição da embarcação pela observação da posição dos astros (sol, lua, estrelas e planetas).
+* Normalmente só é utilizada em alto-mar na navegação oceânica.
 
 #### Eletrônica
-
-Obtenção da posição da embarcação com auxílio de equipamentos eletrônicos, tais como radar, radiogoniômetro, GPS, ecobatímetro e outros.
+* Obtenção da posição da embarcação com auxílio de equipamentos eletrônicos, tais como radar, radiogoniômetro, GPS, ecobatímetro e outros.
 
 ### Pontos cardeais
-
 * N - Norte.
 * S - Sul.
 * E - Leste, lado que o sol nasce.
 * W - Oeste, lado que o sol se pôe.
 
-## Pontos colaterais
-
+### Pontos colaterais
 São os pontos intermediários localizados entre os pontos cardeais.
-
 * NE - Nordeste.
 * SE - Sudeste.
 * SW - Sudoeste.
 * NW - Noroeste.
 
-## Pontos subcolaterais
-
+### Pontos subcolaterais
 São os pontos intermediários localizados entre os pontos cardeais e colaterais.
-
 * NNE - Norte-nordeste.
 * ENE - Este-nordeste.
 * ESE - Este-sudeste.
@@ -88,38 +77,32 @@ São os pontos intermediários localizados entre os pontos cardeais e colaterais
 * WNW - Oeste-noroeste.
 * NNW - Norte-noroeste.
 
-## Rosa dos ventos
+### Rosa dos ventos
+* Conhecida também como rosa circular ou rosa de rumos.
+* Formado pelos pontos cardeais, colaterais e subcolaterais.
+* Graduação de 0 a 360 graus no sentido horário.
 
-Conhecida também como rosa circular ou rosa de rumos.
+### Círculo máximo
+* Cortes da esfera terrestre que o plano passa no centro da mesma.
+* Equador - círculo máximo horizontal - latitude 0.
+* Todos os meridianos - círculos máximos verticais.
 
-Formado pelos pontos cardeais, colaterais e subcolaterais.
+### Círculos menores
 
-Graduação de 0 a 360 graus no sentido horário.
+* Cortes da esfera terrestre que o plano não passa pelo centro.
+* Todos os paralelos - círcluos menores horizontais.
 
-## Círculo máximo
+### Paralelos
+* Determinam as latitudes.
+* Equador é o paralelo 00° e único dos paralelos que é um círculo máximo.
+* Vão de 00°-90°N e 00°-90°S.
 
-Cortes da esfera terrestre que o plano passa no centro da mesma.
-
-Equador - círculo máximo horizontal - latitude 0.
-
-Todos os meridianos - círculos máximos verticais.
-
-## Círculos menores
-
-Cortes da esfera terrestre que o plano não passa pelo centro.
-
-Todos os paralelos - círcluos menores horizontais.
-
-## Paralelos
-Determinam as latitudes.
-Equador é o paralelo 00° e único dos paralelos que é um círculo máximo.
-Vão de 00°-90°N e 00°-90°S.
-Meridianos
-Determinam as longitudes.
-São todos círculos máximos.
-Greenwich é o meridiano 000°.
-Antimeridiano é o meridiano 180°.
-Vão de 000°-180°E e 000°-180°W.
+### Meridianos
+* Determinam as longitudes.
+* São todos círculos máximos.
+* Greenwich é o meridiano 000°.
+* Antimeridiano é o meridiano 180°.
+* Vão de 000°-180°E e 000°-180°W.
 
 Coordenadas geográficas
 Sempre india a latitude e depois a longitude.
