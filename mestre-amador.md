@@ -16,21 +16,21 @@ Aquele que navega (navegador, marinheiro).
 
 ### Tipos de navegação
 
-* Águas restritas (interior) - Arrais amador, veleiro e motonauta
-    * Navegação praticada em águas consideradas abrigadas (interior de portos, baías, canais, rios, lagos e lagoas).
-    * Também utilizada próximo à costa (ou perigo mais próximo).
-    * A menos de 3 milhas náuticas da costa.
-    * Tipo de navegação que exige maior precisão.
-    * Permitido para carteiras de arrais amador, veleiro e motonauta.
+#### Águas restritas (interior) - Arrais amador, veleiro e motonauta
+Navegação praticada em águas consideradas abrigadas (interior de portos, baías, canais, rios, lagos e lagoas).  
+Também utilizada próximo à costa (ou perigo mais próximo).  
+A menos de 3 milhas náuticas da costa.  
+Tipo de navegação que exige maior precisão.  
+Permitido para carteiras de arrais amador, veleiro e motonauta.  
 
-* Costeira (cabotagem) - Mestre amador
-    * Navegação praticada ao longo da costa, entre portos nacionais e estrangeiros.
-    * Dentro dos limites de visibilidade da costa.
-    * Não exceder a distância de 20 milhas náuticas da costa.
-    * De 3 a 20NM da costa.
-    * A posição da embarcação é determinada visualmente tomando-se como referência os pontos notáveis em terra.
+#### Costeira (cabotagem) - Mestre amador
+* Navegação praticada ao longo da costa, entre portos nacionais e estrangeiros.
+* Dentro dos limites de visibilidade da costa.
+* Não exceder a distância de 20 milhas náuticas da costa.
+* De 3 a 20NM da costa.
+* A posição da embarcação é determinada visualmente tomando-se como referência os pontos notáveis em terra.
 
-* Oceânica (longo curso)
+#### Oceânica (longo curso)
     * Realizada fora dos limites de visibilidade da costa.
     * Além de 20 milhas náuticas da costa.
     * Suficientemente afastada de terra e áreas de tráfego nas quais o perigos de águas rasas e de abalroamento são relativamente pequenos.
@@ -39,8 +39,10 @@ Aquele que navega (navegador, marinheiro).
 
 #### Visual
 
-Obtenção da posição da embarcação com base em pontos notáveis em terra ou na costa. 
-Utilizada na navegação costeira.
+Obtenção da posição da embarcação com base em pontos notáveis em terra ou na costa.  
+Utilizada na navegação costeira.\
+Teste 2<br>
+teste 3
 
 #### Estimada
 
