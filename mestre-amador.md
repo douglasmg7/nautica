@@ -334,6 +334,10 @@ Pela série Traub em uma carta náutica, verifica-se a existência de corrente.
 É a derrota efetuada por uma embarcação em determinado tempo.
 
 
+
+
+
+
 ## Publicações de auxílio à navegação
 Editado pela DNH.
 
