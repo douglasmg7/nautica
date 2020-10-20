@@ -341,18 +341,59 @@ Pela série Traub em uma carta náutica, verifica-se a existência de corrente.
 ## Publicações de auxílio à navegação
 Editado pela DNH.
 
-### Catálogo de cartas e pulblicações
+### Catálogo de cartas e publicações
 Relaciona todas as cartas náuticas, publicações e impressos em geral, editados pela DHN.
-É um catálogo dividito em quatro partes.
+É um catálogo dividito em três partes.
+Nos ajuda a selecionar as cartas e publicações náuticas necessárias para execução de uma determinada derrota.
 
-#### Parte 1
-Tráz a relação de todas as cartas publicadas (Marítimas, Fluviais, Lacustres, Especiais e Meteorológicas).
+#### Parte 1 - Catálogo de cartas
+Tráz a relação de todas as cartas publicadas 
+* Marítimas
+* Fluviais e Lacustres
+* Especiais
+* Meteorológicas
 
-#### Parte 2
+#### Parte 2 - Índices de cartas convencionais
 Apresenta os 20 ínidices em que as cartas são distribuidas. Cada índice contém uma relação detalhada das cartas do trecho representado, com área de abrangência, título, escala e o ano da primeira e da última edição, a fim de dar ao navegante ciência do estado de atualização das cartas.
 
-#### Parte 3
+#### Parte 3 - Relação de publicações e ipressos de interesse exclusivo para a navegação
 Relaciona todas as publicações e impressos editados pela DHN, de interesse exclusivo à navegação.
 
-#### Parte 4
-Relaciona todas as cartas eletrônicas da DNH disponíveis para aquisiçã junto ao Centro Internacional de Cartas Náuticas Eletrônicas.
+
+### Roteiros
+O Roteiro tem como propósito complementar as cartas náuticas brasileiras - nunca descrevê-las - dando aos navegantes subsídios que lhes permitam melhor avaliar as informações das cartas, ao navegar ao longo da costa ou dos canais e nas aterragens, assim como conhecer os regulamentos, recursos e facilidades dos portos e terminais.
+
+* Costa norte
+    * Da baía do Oiapoque ao Cabo Calcanhar
+    * Rios Amazonas, Jari e Trombetas
+    * Rio Pará
+
+* Costa leste
+    * Do cabo calcanhar ao Cabo Frio
+    * Ilhas Oceânicas
+
+* Costa sul
+    * Do Cabo Frio ao Arroio Chuí
+    * Lagoas Dos Patos e Mirim
+
+
+### Lista de Faróis
+Contém todas as informações sobre faróis, aerofaróis, barcas-faróis, faroletes, balizas, boias luminosas e luzes particulares ou de obstáculos aéreos que interessam aos navegantes, existentes na costa, nos rios, nas lagoas e nas ilhas do Brasil, assim como nas costas e ilhas dos países estrangeiros que possuam suas terras representadas nas cartas náuticas brasileiras.
+
+
+### Lista de Auxílios-Rádio
+Tem por finalidade reunir em uma única publicação as informações de maior relevância sobre os auxílios radioelétricos à navegação marítima existentes na costa do Brasil e sobre serviços-rádio (incluindo transmissões via satélite) úteis ao navegante que estiver no oceano Atlântico Sul.
+* Radiogoniometria
+* Sinais horários (para acertarmos o relógio de bordo)
+* Serviços radiometeorológicos (boletins de previsão meteorológica)
+* Avisos-Rádio Náuticos
+* Avisos-Rádio SAR
+* Respondedor Radar (RACON)
+* Comunicação de pergio e segurança
+* Apoio costeiro
+* Sistemas de Navegação Eletrônica
+
+A Lista de Auxílio-Rádio é especialmente útil quando temos a bordo um rádio receptor e/ou um radiogoniômetro.
+
+
+### Tábuas das Marés
