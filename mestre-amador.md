@@ -397,3 +397,34 @@ A Lista de Auxílio-Rádio é especialmente útil quando temos a bordo um rádio
 
 
 ### Tábuas das Marés
+* Editadas anualmente
+* Cotém previsões das marés com horas e alturas das preamares e baixa-mares para os principais portos, ilhas ocêanicas e costeiras, barras, fundeadouros e atracadouros da costa brasileira e da Estação Antártica Comandante Ferraz, para todos os dias do ano.
+* Esta previsão é feita por meio de cálculos especiais denominados "métodos harmônicos"
+
+
+### Marés
+É produzido pela ação conjunta da lua e do sol, e em muito menor escala pelos demais astros.
+
+### Corrente de marés
+Movimento horizontal das águas de um ponto a outro.
+Ocorre no período em que a maré está enchendo ou está vazando.
+Maré enchente, quando o nível das águas está subindo.
+Maré vazante, quando o nível das águas está descendo.
+Preamar (PM), maré alta ou maré cheia, quando a maré de enchente atinge seu nível mais elevado.
+Baixa mar ou maré baixa (BM), quando a maré vazante chega ao seu nível mais baixo.
+Estofo da maré, curto período de tempo em que o nível da maré fica praticamente parado.
+Altura da maré é a distância vertical em um determinado instante, entre o nível do mar e o nível de redução registrado na carta náutica.
+Nível de redução (NR) é o nível esolhido como referência das sondagens das cartas náuticas, e tem como base a média das menores baixa-marés de sizígias da região sondada.
+Em condições normais o navegante terá certeza que o nível do mar na baixa-mar indicada na carta náutica, em nenhum momento ficará abaixo do NR.
+Maré de sizígia, maré de grande amplitude, caracterizada por preamares muito altas e baixa-mar muito baixas, caracterizando-se por alturas negativas de marés, isto é, com nível de mar abaixo do NR. 
+Maré de quadratura é maré de pequena amplitude.
+Amplitude da maré é a diferença entre o preamar e o baixa-mar consecutivo ou baixa-mar e preamar consecutivo.
+Nível médio do mar é o nível do mar que fica no meio exato entre o preamar e o baixo-mar.
+Ciclo da maré é o período de tempo entre uma preamar e a baixa-mar que se segue.
+Maré semidiurna ocorre entre duas preamares e duas baixa-marés no período de um dia.
+Maré diurna ocorre entre uma preamar e uma baixa-mar no período de um dia.
+Maré mistas é quando ocorrem oscilações diurnas e semidiurnas no período de um dia.
+Maré de desigualdades diurnas ocorre entre duas preamres e duas baixa-marés no período de um dia, porem com acentuadas desigualdades.
+Ressaca tem como causa a ocorrência de ondas de grandes comprimento de ondas.
+Profundidade de um porto é a soma do NR mais a altura da maré no instante desejado.
+Altura da maré (entre preamar e baixa-mar) = (hora desejada - preamar) * (altura preamar - altura baixa-mar) / hora biaxa-mar - hora preamar
