@@ -212,3 +212,59 @@ Equilibrar a área vélica adernando o barco pro lado contrário a vela até que
 ### Primeira velejada sozinho
 
 ### Regatta com professor e/ou outros alunos
+
+
+## Exercícios para dia sem vento (Optimist)
+
+### Montar leme e bolina.
+* Colocar o aluno no barco sem o mastro e a vela, com o leme e a bolina dentro do barco mas não montados.
+1. Aluno deve montar o leme e a bolina.
+2. Aluno deve desmontar a bolina e o leme.
+3. Repetir os passos 1 e 2 até que o aluno tenha segurança de montar e desmontar o leme e a bolina.
+
+### Escorar o barco.
+* Colocar o aluno no barco com o leme e a bolina montada, mas sem o mastro e vela.
+1. Explicar para o aluno como posicionar o peito do pé na escora e deitar para trás afim de escorar o barco.
+2. Professor fala que vai entrar uma rajada, senta no bordo contrário e pede para o aluno escorar o barco.
+3. Professor fala que a rajada está acabando, sai do bordo do barco e pede para o aluno voltar para o centro do barco.
+4. Repetir os passos 2 e 3 de forma mais intensa.
+5. Repetir o passo 4 sem informar sobre a rajada (quando o professor vai sentar ou sair do bordo).
+6. Repetir o passo 5 com o aluno segurando o extensor da cana do leme e a escota.
+
+### Velejar sem vento
+* Colocar o aluno no barco com o leme e a bolina montada, mas sem o mastro e vela.
+* Explicar como lemar o barco para o barco ter seguimento.
+* Explicar como lemar o barco para guinar.
+1. Empurrar o barco para frente e pedir para que o aluno contiune até o final do pier, guine o barco e volte.
+2. Empurrar o barco de ré e pedir que o aluno movimente o leme levemente para perseber como o barco reage quando indo de ré.
+3. Remover a bolina, empurrar o barco para frente e pedir para que o aluno continue até o final do pier, guine e volte.
+4. Conversar com o aluno sobre a diferença do comportamento do barco com e sem bolina.
+
+### Inclinando o barco para dar seguimento
+* Colocar o aluno no barco com o leme e a bolina montada, mas sem o mastro e vela.
+* Explicar como ir iclinando o barco para criar seguimento.
+1. Aluno deve ficar em pé no centro do barco com as pernas abertas e voltado para frente.
+2. Segurar o extensor atrás das costas e ir inclinando o barco ater o mesmo ter seguimento.
+3. Deve ir até o final do pier e voltar.
+
+### Capturar um totem no pier
+* Colocar o aluno no barco com o leme e a bolina montada, mas sem o mastro e vela.
+* Colocar um totem (pode ser uma garrafa pete) no pier a uma certa distância.
+* Pedir que o aluno pegue o tetem e traga de volta.
+* Não vale encostar o barco no pier.
+
+### Ser rebocado
+* Colocar o aluno no barco com o leme e a bolina montada, mas sem o mastro e a vela.
+* Amarrar um cabo no pé do mastro.
+* Não é necessário outro barco para rebocar o barco do aluno.
+1. Professor no pier, puxa o barco pelo cabo e pede para o aluno ir controlando o barco e dar a volta no pier.
+
+### Sair e entrar no barco
+* Colocar o aluno no barco com o leme e a bolina montada, mas sem o mastro e a vela.
+* Posicionar o barco onde a profundidade não permita que o aluno consiga por o pé no chão.
+1. Aluno deve sair do barco por um dos bordos.
+2. Dar duas voltas em torno do barco sem segurar no mesmo.
+4. Dar duas voltas em torno do barco sempre segurando no mesmo.
+5. Segurar o barco pela proa e a proar o mesmo com vento caso tenha algum vento.
+6. Girar o barco duas vezes segurando o mesmo pela proa com apenas uma das mãos. Usar a mão livre e os pés para nadar e ir girando o barco.
+7. Voltar para dentro do barco por um dos bordos.
