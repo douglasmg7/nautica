@@ -30,11 +30,11 @@ Aquele que navega (navegador, marinheiro).
 * De 3 a 20NM da costa.
 * A posição da embarcação é determinada visualmente tomando-se como referência os pontos notáveis em terra.
 
-#### Oceânica (longo curso)
+#### Oceânica (longo curso) - Capitão amador
 * Realizada fora dos limites de visibilidade da costa.
 * Além de 20 milhas náuticas da costa.
 * Suficientemente afastada de terra e áreas de tráfego nas quais o perigos de águas rasas e de abalroamento são relativamente pequenos.
-
+
 ### Métodos para determinação da posição da embarcação no mar
 
 #### Visual
@@ -99,7 +99,7 @@ São os pontos intermediários localizados entre os pontos cardeais e colaterais
 
 ### Meridianos
 * Determinam as longitudes.
-* São todos círculos máximos.
+* São todos círculos máximos verticais.
 * Greenwich é o meridiano 000°.
 * Antimeridiano é o meridiano 180°.
 * Vão de 000° a 180°E e 000° a 180°W.
