@@ -496,13 +496,43 @@ Calunga - Solução gráfica do Dmg.
 
 ### Da - Desvio da agulha
 São desvios na indicação da agulha magnética devido a ferros de bordo (Campos magnéticos existentes na embarcação que interferem no funcionamento da agulha magnética).
-O do desvio da agulha é obtido na curva de desvios.
+O Da varia de acordo com a orientação da embarcação, ou seja para cada proa da embarcação haverá um desvio correspondente.
+O do desvio da agulha é obtido na curva de desvios da agulha (tabela de desvios).
+Da é o ângulo formado entre Nmg e o Nag, contado a partir do norte magnético.
+Compensação da agulha - é a tecnica utilizada para criar a tabela de desvios da agulha.
+A compensação da agulha visa anular ou reduzir as influências dos ferros de bordo sobre a agulha. Os devios não eliminados são considerados desvios residuais.
+São aceitos desvios residuais menores ou iguais a 3 graus.
+O desvio deve ser revisto pelo menos uma vez por ano e sempre que ocorrerem acréscimos ou retiradas de equipamentos de bordo.  
 
 ### Nag - Norte da agulha
 O norte que a agulha aponta devido ao desvio magnético.
+
+### Rag - Rumo da agulha
+
+### Rmg - Rumo magnético
+
+### Vt - Variação total da agulha
+É o ângulo formado entre o Nv e o Nag, contando a partir do Nv.
 
 ### Tipos de agulha magnética
 Agulha padrão - Agulha instalada em local mais livre de influências magnéticas.
 Agulha de governo - Agulha utilizada para governo da embarcação.
 Agulha de teto - Agulha instalada no teto, de forma a ver a rosa dos ventos por baixo.
 Agulha manual - Utilizada em pequenas embarcações.
+
+### Agulha giroscópica
+Aponta para o Nv
+Não sofre influência do magnetismo da terra e nem dos ferros de bordo.
+
+### Dgi - Desvio da giroscópica
+Tem o mesmo valor de desvio para todas as proas.
+
+### Ngi - Norte da giroscópica
+
+
+## Marcações
+As direções de referência utilizadas em navegação para indicar rumo são o Nv, Nmg e o Nag.
+Os rumos podem ser Rv, Rmg e Rag.
+
+
+
