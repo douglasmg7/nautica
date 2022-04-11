@@ -469,3 +469,40 @@ Ocorrência de ondas de grandes comprimento de ondas.
 
 #### Altura da maré 
 Altura da maré (entre preamar e baixa-mar) = (hora desejada - preamar) * (altura preamar - altura baixa-mar) / hora baixa-mar - hora preamar.  
+
+
+## Navegação
+Leste - E
+Oeste - W
+
+### Pontos de concentração magnética
+Um ao norte (N), com polaridade negativa - polo norte magnético.
+Um ao sul (S), com polaridade positiva - polo sul magnético.
+As linhas de força tendem a se dirigirem de um polo a outro.
+As linhas de força sofrem interferências, entre outras coisas, pela concentração desuniforme dos materiais magnéticos existentes na Terra.
+
+### Nv - Norte Verdadeiro
+Norte verdadeiro - é o norte geográfico - localizado na latitude 90N.
+
+### Nmg - Norte Magnético
+Posição de concentração magnética, próximo ao Nv.
+
+### Dmg - Declinação Magnética
+É o ângulo formado entre o NV e o Nmg, contando a partir do norte verdadeiro.
+O valor do Dmg é obtido no interior da rosa dos ventos da carta náutica.
+Nmg a esquerda do Nv, diz-se que a Dmg é Oeste.
+Variação anual - É a alteração da Dmg durante um ano.
+Calunga - Solução gráfica do Dmg.
+
+### Da - Desvio da agulha
+São desvios na indicação da agulha magnética devido a ferros de bordo (Campos magnéticos existentes na embarcação que interferem no funcionamento da agulha magnética).
+O do desvio da agulha é obtido na curva de desvios.
+
+### Nag - Norte da agulha
+O norte que a agulha aponta devido ao desvio magnético.
+
+### Tipos de agulha magnética
+Agulha padrão - Agulha instalada em local mais livre de influências magnéticas.
+Agulha de governo - Agulha utilizada para governo da embarcação.
+Agulha de teto - Agulha instalada no teto, de forma a ver a rosa dos ventos por baixo.
+Agulha manual - Utilizada em pequenas embarcações.
