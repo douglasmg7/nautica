@@ -481,13 +481,13 @@ Um ao sul (S), com polaridade positiva - polo sul magnético.
 As linhas de força tendem a se dirigirem de um polo a outro.
 As linhas de força sofrem interferências, entre outras coisas, pela concentração desuniforme dos materiais magnéticos existentes na Terra.
 
-### Nv - Norte Verdadeiro
+### Nv ou N - Norte Verdadeiro
 Norte verdadeiro - é o norte geográfico - localizado na latitude 90N.
 
-### Nmg - Norte Magnético
+### Nmg ou Nm - Norte Magnético
 Posição de concentração magnética, próximo ao Nv.
 
-### Dmg - Declinação Magnética
+### Dmg ou Dm - Declinação Magnética
 É o ângulo formado entre o NV e o Nmg, contando a partir do norte verdadeiro.
 O valor do Dmg é obtido no interior da rosa dos ventos da carta náutica.
 Nmg a esquerda do Nv, diz-se que a Dmg é Oeste.
@@ -504,15 +504,16 @@ A compensação da agulha visa anular ou reduzir as influências dos ferros de b
 São aceitos desvios residuais menores ou iguais a 3 graus.
 O desvio deve ser revisto pelo menos uma vez por ano e sempre que ocorrerem acréscimos ou retiradas de equipamentos de bordo.  
 
-### Nag - Norte da agulha
+### Nag ou Na - Norte da agulha
 O norte que a agulha aponta devido ao desvio magnético.
 
-### Rag - Rumo da agulha
+### Rag ou Ra - Rumo da agulha
 
-### Rmg - Rumo magnético
+### Rmg ou Rm - Rumo magnético
 
-### Vt - Variação total da agulha
+### Vt ou VT - Variação total da agulha
 É o ângulo formado entre o Nv e o Nag, contando a partir do Nv.
+Vt = Dmg + ou - Da
 
 ### Tipos de agulha magnética
 Agulha padrão - Agulha instalada em local mais livre de influências magnéticas.
@@ -529,10 +530,57 @@ Tem o mesmo valor de desvio para todas as proas.
 
 ### Ngi - Norte da giroscópica
 
+### Relembrando
+Mantemos fixo o rumo da embarcação (proa) e o Nv.
+Rv - É medido do Nv até a proa da embarcação.
+Dmg - Nv para Nmg.
+Da - Nmg para Na.
+Ra - Na até a proa.
+
+### Lembrete
+Obter Na a partir do Nv - W(+), E(-)
+Obter Nv a partir do Na - W(-), E(+)
+
 
 ## Marcações
-As direções de referência utilizadas em navegação para indicar rumo são o Nv, Nmg e o Nag.
+As direções de referência utilizadas em navegação para indicar rumo são o Nv, Nmg, Nag e a proa da embarcação.
 Os rumos podem ser Rv, Rmg e Rag.
+Correção dos rumos - É a operação de transformar os rumos, através de formulas ou de calunga.
+Rumo no fundo é a resultante entre o rumo da superfície e a corrente.
+
+### Rp - Rumos práticos
+Quando nos orientamos por referências em Terra (pontos notáveis) para obtermos a nossa posição, dispensando o uso da agulha.
+
+### Marcação
+É o ângulo formado entre a linha que une a embarcação e um objetivo (ou alvo) e uma determinada direção de refêrencia, medidoa a partir dessa referência.
+Mv - Marcação verdadeira
+Mmg ou Mm - Marcação magnética
+Mag - Marcação da agulha
+Mgi - Marcação giroscópica
+
+### Mrel ou Mr Marcação relativa
+É o ângulo formado entre a linha de proa da embarcação e a linha de alvo, medindo de 0 a 360.
+
+### Mp - Marcação polar
+É o ângulo formado entre a linha de proa da embarcação e a linha de alvo, medindo de 0 a 180 BB ou BE.
+MpBE 135, MpBB 60, pela proa, pela popa, e etc...
+
+### Pontos a serem usados na determinação de uma posição
+Se duas retas de marcação - Ideal que o ângulo entre elsa seja próximo de 90 graus.
+Se três marcações - Ideal que os ângulo entre elas seja próximo de 60 graus.
 
 
+## Posição no mar
+LDP - Linha De Posição
+A LDP pode ser uma reta uma circunferência ou uma curva (isobatimétricas).
+
+## Derrota simples ou Singradura única
+Derrota é realizada em um único rumo.
+
+## Derrota composta ou singraduras múltipla
+Derrota é realizada por mais de um rumo.
+
+## Linha de visada
+Linha que liga o observador ao alvo.
+Uma linha de visada determina uma LDP.
 
