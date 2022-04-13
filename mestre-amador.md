@@ -574,13 +574,64 @@ Se três marcações - Ideal que os ângulo entre elas seja próximo de 60 graus
 LDP - Linha De Posição
 A LDP pode ser uma reta uma circunferência ou uma curva (isobatimétricas).
 
-## Derrota simples ou Singradura única
+### Derrota simples ou Singradura única
 Derrota é realizada em um único rumo.
 
-## Derrota composta ou singraduras múltipla
+### Derrota composta ou singraduras múltipla
 Derrota é realizada por mais de um rumo.
 
-## Linha de visada
+### Linha de visada
 Linha que liga o observador ao alvo.
 Uma linha de visada determina uma LDP.
 
+### Principais LDP utilizadas em navegação costeira e em águas restritas
+Retas de marcação
+Retas de alinhamento (enfiamento)
+Circunferência de igual distância
+Linhas de igual profundidade (isobatimétricas)
+    *Válido quando o relevo é bem definido e tem poucas variações.
+    *Deve-se considerar a altura da maré no momento da medição para obeter uma maior precisão.
+    *Lembrar de somar o calado do barco no valor obtido no ecobatímetro.
+
+### Determinação da posição da embarcaçã
+O ãngulo formado entre duas marcações não deve ser menor que 30 graus e nem maior que 120 graus.
+Sempre que possível deve-se obter a marcação de um terceiro ponto notável, a fim de confirmar a posição.
+    *Ângulo de cruzamento ideal é de 120 graus para pontos em ambos os bordos.
+    *Ângulo de cruzamento ideal é de 60 graus quando todos os pontos estão situados dentro de um arco de 180 graus.
+1 - Duas marcações simultâneas
+2 - Alinhamento e marcação visual
+3 - Marcação e distância simultâneas de um mesmo objeto
+4 - Marcação de um objeto e distância de outro
+5 - Distâncias simultâneas
+6 - Marcação e profundidade
+    *Ideal escolher uma isobática da carta
+    *Ideal que a marcação tenha un ângulo de 90 graus com a linha da isobática
+7 - Por meios eletrônicos
+8 - Marcações sucessivas
+    *Usa-se Mp
+    *A segunda marcação deve ter o dobro da primeira
+    *Nem sempre são precisas devido a influência de corrente, vento, estado do mar e etc...
+
+### Marcações sucessívas
+1 - Duas marcações de um mesmo objeto, tomadas com um intervalo entre elas.
+2 - Duas marcações de objeto diferentes, tomadas com um intervalo entre elas.
+3 - Uma série de marcações de um mesmo objeto. 
+
+#### Técnica 1
+1 - Obtem a primeira Mv e tempo inicial
+2 - Converte para Mp
+3 - Obter no tempo quando barco estiver a 2 x (Mp inicial)
+4 - Obter Mv final = 2x(Mp inicial)  e tempo final
+5 - Obter a distância percorrida = delta tempo * velocidade
+6 - A distância da embarcação até o alvo é igual a distância percorrida, quando o barco estiver na posição da marcação final
+
+#### Técnica 2
+1 - Fazer a marcação inicial e marcar a hora
+2 - Esperar pelo menos 30 minutos e fazer a marcação novamente
+3 - Calcular a distânica percorrida
+4 - Transportar a primeira marcação até que distância calculada conisida com a distância no rumo da embarcação
+5 - O cruzamento das linhas é a posição da embarcação
+
+
+## Navegação estimada
+Processo de determinar a posição aproximada da embarcação.
