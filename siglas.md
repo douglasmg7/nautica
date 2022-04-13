@@ -43,3 +43,109 @@ Nível de Redução
 Centro Internacional de Cartas Náuticas Eletrônicas
 www.ic-enc.org
 www.primar.no
+
+### ECS
+Electronic Chart System - Sistema de Cartas Eletrônicas
+Sistemas de cartas eletrônicas que podem ser usadas como auxílio à navegação, mas não substitui legalmente a carta náutica impressa.
+
+### ECDIS
+Electronic Chart Display - Carta eletrônica
+
+### ENC
+Electronic Nautic Charter - Carta Náutica Eletrônica
+É a base de dados padronizada com relação ao conteúdo, estrutura e formato, emitida para uso com o ECDIS.
+
+### RNC
+Raster Nautic Charter - Cartas Náuticas Raster
+Cópia digital em formato raster da carta náutica convencional em papel.
+
+### NR
+Nível de Redução
+Pode ser definido como um nível tão baixo, que a maré em condições normais não fique abaixo dela.
+
+#### PM
+Preamar, maré alta ou maré cheia
+
+#### BM
+Baixa mar ou maré baixa
+
+### Nv ou N
+Norte Verdadeiro
+
+### Nmg ou Nm
+Norte Magnético
+
+### Dmg ou Dm
+Declinação Magnética
+
+### Da
+Desvio da agulha
+
+### Nag ou Na
+Norte da agulha
+
+### Rag ou Ra
+Rumo da agulha
+
+### Rmg ou Rm
+Rumo magnético
+
+### Vt ou VT
+Variação total da agulha
+Vt = Dmg + ou - Da
+
+### Dgi
+Desvio da giroscópica
+
+### Ngi
+Norte da giroscópica
+
+
+### Rp
+Rumos práticos
+
+### Mv
+Marcação verdadeira
+
+### Mmg ou Mm
+Marcação magnética
+
+### Mag
+Marcação da agulha
+
+### Mgi
+Marcação giroscópica
+
+### Mrel ou Mr 
+Marcação relativa
+
+### Mp
+Marcação polar
+
+### MpBB
+Marcação polar bombordo 
+
+### MpBE
+Marcação polar boreste
+
+### LDP
+Linha De Posição
+
+### VelN
+Velocidade do navio na superfície
+
+### VelFd
+Velocidade do fundo
+
+### VelCor
+Velocidade da corrente
+
+### Rn
+Rumo na superfície
+
+### RFd
+Rumo no fundo
+
+### Abt
+Abatimento
+

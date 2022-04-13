@@ -635,3 +635,22 @@ Sempre que possível deve-se obter a marcação de um terceiro ponto notável, a
 
 ## Navegação estimada
 Processo de determinar a posição aproximada da embarcação.
+Horas com quatro algarismos
+Uma nova posição deve ser plotada quando houver:
+    *Mudança de rumo
+    *Mudança de velocidade
+    *Para o instante em que se obtem uma posição determinada
+    *Para o instante em que se obtem uma simples linha de posição
+
+### Fatores que influenciam a posição estimada
+Correntes marítimas
+Correntes de marés
+Efeito dos ventos
+Estado do mar
+Mau governo da embarcação
+Erros de odômetro ou velocimetro
+Obras vivas com excesso de incrustação
+Banda e trim
+
+### Corrente
+É a resultante de todos os fatores que afetam o movimento da embarcação
