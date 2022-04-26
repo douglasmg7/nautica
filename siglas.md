@@ -131,21 +131,27 @@ Marcação polar boreste
 ### LDP
 Linha De Posição
 
-### VelN
+### Vel_n
 Velocidade do navio na superfície
 
-### VelFd
+### Vel_fd
 Velocidade do fundo
 
-### VelCor
+### Vel_cor
 Velocidade da corrente
 
-### Rn
+### R_n
 Rumo na superfície
 
-### RFd
+### R_fd
 Rumo no fundo
 
 ### Abt
 Abatimento
+É o ângulo entre o rumo na superfície e o rumo no fundo, contado para BE ou para BB, a partir do rumo na superfície.
 
+### Boiar
+Aparacer no horizonte
+
+### Alagar
+Desaparecer no horizonte

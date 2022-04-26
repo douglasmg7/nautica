@@ -654,3 +654,29 @@ Banda e trim
 
 ### Corrente
 É a resultante de todos os fatores que afetam o movimento da embarcação
+
+### Posição carteada
+É a posição que se prevê que o barco ocupará em horas futuras.
+É bastante útil como antecipação dos eventos que deverão ocorrer nas próximas horas, para alertar o pessoa sobre faróis que irão boiar, variações sensíveis nas isobáticas, proximidades de perigo e etc...
+É representado por um pequeno traço cortando o rumo, com a indicação da hora.
+
+## Determinação de distâncias no mar
+A maneira mais usual é através do radar.
+Alcance geográfico - é a distância de visibilidade ao horizonte no mar.
+Alcance luminoso ou alcance ótico - é a distância máxima de visibilidade de uma luz.
+
+### Determinação da distância ao horizonte
+Um navegante encontra-se no tijupá de sua embarcação, que fica elevado 9m em relação ao nível do mar. Qual é a distância visual de seu horizonte?
+d = 2 * math.sqrt(h)
+d = 2 * math.sqrt(9)
+d = 6 milhas
+
+### Determinação da distância a um objeto de altitude conhecida no horizonte (boiando)
+Navegante a uma altura de 9m
+Objeto visado tem altitude de 100m
+d = d1 + d2
+d = 2 * math.sqrt(9) + 2 * math.sqrt(100)
+d = 6 + 20 = 26 milhas
+Existe uma tabela de alcance geográfico em vez de usar a formula.
+
+
