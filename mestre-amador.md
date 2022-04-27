@@ -471,6 +471,121 @@ Ocorrência de ondas de grandes comprimento de ondas.
 Altura da maré (entre preamar e baixa-mar) = (hora desejada - preamar) * (altura preamar - altura baixa-mar) / hora baixa-mar - hora preamar.  
 
 
+## Meteorologia
+É o estudo de todos os fenômenos diferentes de uma nuvem.
+É a parte da física que estuda os fenômenos atmosféricos, também chamados de meteoros.
+
+### Atmosfera
+Massa gasosa que acompanha os movimentos da terra.
+O ar atmosférico é composto por uma mistura de gases.
+    * Nitrogênio - 78% do volume total
+    * Oxigênio - 20,95% do volume total
+    * Gases nobres - 0.97% do volume total
+    * Vapor d'água e impurezas (poeira, fumaça, sal e etc...)
+
+#### Troposfera
+Camda inferior da atmosfera.
+Vai do nível do mar até cerca de 12km de altitude.
+Sua tempêratura atinge -60 graus na sua parte superior.
+É a camada da atmosfera mais importante para a vida na terra, pois é onde ocorre a maioria dos fenômenos meteorológicos.
+Temperatura diminui com o aumento da altitude.
+
+#### Extratosfera
+Vai até 50km.
+Começa a -60 graus e vai até -15 graus.
+Temperatura aumenta com o aumento da altitude.
+Onde fica a camada de ozônio.
+
+#### Mesosfera
+Camda mais fria da atmosfera.
+Fica entre 50km e 90km de altitude.
+Temperatura diminui com o aumento da altitude.
+De -15 graus a -120 gruas.
+É onde ocorre o fenômeno da aeroluminescência.
+
+#### Termosfera
+Camada mais externa da atmosfera.
+Vai de 90 a 600km de altitude.
+A camada mais quente, chega a 2000 graus.
+Onde orbita os ônibus espacias.
+
+#### Exosfera
+É a ultima camada que antecede o espaço.
+Pode chegar até 10000km de altitude.
+Temperatura em torno de 1600 graus.
+Nela as moléculas tornam-se cada vez mais rarefeitas.
+Onde ocorre o fenômeno de aurora boreal.
+Onde orbitam os satélites e telescópios.
+
+### Aeroluminescência
+É uma fraca emissão de luz resultante de reações químicas que envolvem o oxigênio, nitrogênio e o ozônio nas altitudes entre 80 e 96km de altitude.
+
+### Aquecimento e resfriamento da terra e da atmosfera
+A terra é aquecida durante o dia pela radiação solar ou insolação e é resfirada pela radiação terrestre durante o dia e a noite.
+A energia irradiada pelo sol aquece a terra, permitindo a evaporação da água, a formação das núvens, a chuva, o temporal e etc..
+É a fonte de energia responsável pela ocorrência dos fenômenos meteorológicos e oceanográficos.
+
+### Condução
+Transfêrencia de calor através da matéria sem transferência da própria matéria.
+
+### Convecção
+Transferência das principais propriedades atmosféricas pelo movimento vertical do ar por meio das correntes ascendentes ou descendentes.
+
+### Advecção
+Transferência de alguma propriedade atmosférica por movimento horizontal do ar.
+
+### Principais causas da variação do aquecimento da atmosfera
+Incidência de raio solar
+Cobertura de nuvens
+Natureza do solo
+
+### Elementos meteorológicos mais importantes
+Temperatura, pressão, umidade, ventos, nuvens, visibilidade e precipitação.
+
+### Termometro ou termógrafo
+Mede a temperatura do ar seco
+
+### Psicrômetro ou higrômetro
+Mede a temperatura do ar úmido, que é utilizada para determinação da temperatura do ponto de orvalho.
+Mede o grau de umidade do ar.
+
+### TSM - Temperatura da superfície do mar
+A TSM durante o dia e a noite não apresenta variação de valor.
+
+### Barômetro de mercúrio ou aneróide
+Utilizado para medir a pressão atmosférica.
+
+### Umidade
+É a quantidade de vapor de água contida na atmosfera.
+A massa de ar úmida é sempre menos pesada que uma massa de ar seco, por isso o ar úmido é mais instável.
+A umidade relativa varia sempre que muda a quantidade de vapor de água presente no ar e também quando varia a temperatura.
+Temperatura do ponto de orvalho é a temperatura que a úmidade relativa atinge 100%.
+Menor temperatura, menor capacidade do vapor de água no ar.
+Menor pressão gera saturação do vapor de água no ar.
+
+### Vento
+Anticiclone - alta pressão
+Ciclone - baixa pressão
+
+### Vento de superfície
+É a velocidade do vento medida a 10 metros de altura e em áreas desobstruídas.
+
+### Rajada
+Rápido aumento na intensidade do vento em relação à sua intensidade média.
+Seus picos ocasionais devem ter intensidade superior a 10kn da sua intensidade média.
+
+### Venots locais
+Brisa marítima - vento proviniente do mar, durante o dia.
+Brisa terrestre (terral) - vento proviniente do continente, durante a noite.
+
+### Anemômetro
+Instrumento utilizado para medir e ou registrar a direção e intensidade do vento.
+Anemoscópio indica a direção do vento.
+
+### Lei de Buys-Ballot ou lei básica dos ventos
+Voltando-se para a direção de onde sopra o vento verdadeiro, a baixa pressão barométrica fica à sua direita no hemisfério norete e à esquerda no hemisfério sul, a cerca de 110 graus da direção de onde sopra o vento.
+
+
 ## Navegação
 Leste - E
 Oeste - W
@@ -678,5 +793,34 @@ d = d1 + d2
 d = 2 * math.sqrt(9) + 2 * math.sqrt(100)
 d = 6 + 20 = 26 milhas
 Existe uma tabela de alcance geográfico em vez de usar a formula.
+
+### Métodos práticos de determinação de distâncias
+
+#### Método da régua graduada
+D - Distância do observador ao ponto notável em milhas
+H - Elevação do ponto notável em milhas
+d - Comprimento do braço do observador em metros
+L - Medida da imagem do ponto notável em metros
+D = d * H / 1852 * L
+
+Exemplo:
+Elevação do ponto notável = 70 m
+Medida do ponto notável = 4 cm
+Distância do olho até a régua = 60 cm
+D = 0.6 * 70 / 1852 * 0.04 = 1050 / 1852 = 0.6 milhas
+
+Pode ser usado horizontalmente também
+
+#### Método do dedo
+Olha a precentagem de mudança na horizontal do polegar, quando troca o olho que observa.
+D = Distância
+P = Porcentagem de deslocamento do dedo
+C = Comprimento da ilha
+D = P * C * 10
+
+Exemple:
+P = 30%
+C = 2 milhas
+D = .3 * 2 * 10 = 6 milhas
 
 

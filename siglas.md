@@ -5,6 +5,8 @@ Diretoria de Hidrografia e Navegação
 
 ### CHM
 Centro de Hidrografia da Marinha
+Coordenado pela DHN
+Responsável pela operação do serviço meteriológico marinho
 
 ### OHI
 Organização Hidrográfica Internacional
@@ -155,3 +157,6 @@ Aparacer no horizonte
 
 ### Alagar
 Desaparecer no horizonte
+
+### TSM
+Temperatura da Superfície do Mar
