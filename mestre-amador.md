@@ -111,6 +111,10 @@ São os pontos intermediários localizados entre os pontos cardeais e colaterais
 * Lat. 29°57’03”S
 * Long. 050°30’23”W
 
+### Hemisfério
+PN - Polo norte - boreal
+PS - Polo sul - Austral
+
 ### Diferença de latitude
 * Caminho em latitude.
 * É a distância angular tomada ao longo de um meridiano qualquer, entre os paralelos que passam por dois pontos determinados.
@@ -589,6 +593,7 @@ Voltando-se para a direção de onde sopra o vento verdadeiro, a baixa pressão 
 ## Navegação
 Leste - E
 Oeste - W
+Navegação costeira - 3 a 20NM da costa ou menos caso a visibilidade não permita.
 
 ### Pontos de concentração magnética
 Um ao norte (N), com polaridade negativa - polo norte magnético.
