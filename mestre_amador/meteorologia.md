@@ -209,14 +209,25 @@ Baixas, médias e altas.
 Abaixo de 2km de altura
 
 #### St - Stratus
+Normalmente acinzentadas, aparecem em camadas uniformes, aparentando um nevoeiro.
+Quando espessas, dificultam a penetração da luz solar.
 
 #### Ns - Nimbostratus
+Mais escuras que a stratus, também uniformes, tendo a aparência de nuvens carregadas, típicas de chuva.
+Normalmente bloqueiam a penetração da luz do sol.
 
 #### Cu - Cumulus
+Nuvens densas, com a aparência de chumaço de algodão, porem nunca cobrem inteiramente o céu.
+Normalmente, a presenção de cumulus significa bom tempo.
+Quando a temperatura na superfície do mar for mais quente que o ar, pode haver instabilidade, favorecendo a convecção e a formação de nuvens cumulos, ou seja, se forma com ar instável.
 
 #### Sc - Stratucumulos
+Nuvens derivadas de cumulus ligeiramente acinzentadas, com forma de rolos não uniformes.
+Normalmente, depois delas, ocorrem dias claros e bom tempo.
 
 #### Cb - Cumulonimbus
+Nuvnes muito densase acinzentadas, com formatos que lembram grandes torres.
+Normalmente, são seguidas de mau tempo com fortes ventos e chuva pesada.
 
 
 ### Nuvens médias
