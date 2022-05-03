@@ -234,17 +234,95 @@ Normalmente, são seguidas de mau tempo com fortes ventos e chuva pesada.
 Entre 2km e 6km de altura
 
 #### As - Altostratus
+Nuvnes que assemelham a um véu ligeiramente acinzentado, deixando o céu fosco.
+Normalmente indicam a aproximação de chuvas e ventos.
 
 #### Ac - Altocumulus
+Têm a aparência de pequenos chumaços de algodão, sendo normalmente associadas a mudanças de tempo.
 
 
 ### Nuvens altas
 acima de 6km
 
 #### Ci - Cirrus
+Com aparência fibrosa, normalmente se apresentam isoladas.
+Nuvnes altas e esgarçadas muitas vezes dão alarme antecipado de mau tempo se seguidas de formação de nuvens, porém a direção do vento é importante.
+Se dissipando significa melhora do tempo.
 
 #### Cs - Cirrostratus
+Nuvens finas e esbranquiçadas.
+Normalmente combrem o céu todo, dando uma a apreência de um fino véu.
+Sinal de mau tempo.
 
 #### Cc - Cirrocumulus
+Nuvens pouco densas e esbranquiçadas, com a aparência de ondas.
+Normalmente a presença dessas nuvens está associada a bom tempo.
 
+## Chuva
+Vapor d'água condensado na atmosfera que se precipita sobre a terra, em forma de gotas de diâmetro superior a 0,5mm.
+Leve - até 2,5mm/m2
+moderada - entre 2,5mm/m2  e 7,5mm/m2
+forte - superior a 7,5mm/m2
+
+## Chuvisco
+Vapor d'água condensado na atmosfera que se precipita sobre a terra de forma uniformemente dispersa, em forma de gotas de diâmetro inferior a 0,5mm.
+
+## Nevasca
+Neve acompanhada de temporal
+
+## Nevoeiro
+Por conveção o termo se aplica quando a visibilidade for inferior a um quilômetro.
+Fatores importantes na formação de nevoeiros:
+    * Elevada umidade relativa (97 a 100%)
+    * Estabilidade atmosférica
+    * Resfriamento convincente
+    * Velocidade do vento fraco ou calmo
+Forte - Visibilidade de no máximo 100 metros
+Fraco - Visibilidade de no máximo 1km
+Baixo - Alcança aproximadamente 3 metros de altitude, podendo o céu estar perfeitamente visível.
+
+### Nevoeiro de resfriamento
+Comun sobre campos, em consequência de contato do ar quente sobre o solo, resfriado durante a noite. Disipa-se com o aquecimento diurno.
+
+#### Nevoeiro de radiação
+Contato com o solo, resfirando durante a noite.
+
+#### Nevoeiro de advecção
+Contato do ar quente e úmido em movimento com uma superfície (solo ou mar) mais fria, sobre a qual se desloca.
+Nevoeiro de vapor
+Nevoeiro marítimo
+Nevoeiro de brisa marítima
+Nevoeiro glacial
+
+#### Nevoeiro orográfico ou de enconsta
+Por ascensão diabática (transferência de calor) do ar que se desloca, subindo por um terrento elevado.
+
+#### Nevoeiro de evaporação
+Comum sobre superfícies líquidas, geralmente acontece de manhã, como resultado da evaporação da água que é mais quente que o ar.
+
+#### Nevoeiro frontal
+Evaporação da chuva quente em ar mais frio.
+
+#### Nevoeiro de vapor
+Evaporação de um ar mais quente em ar mais frio.
+
+## Névoa
+É uma nuvem do tipo stratus, que toca ou se forma  junto ao solo.
+
+### Névoa úmida
+Obstrução da visibilidade nas camadas supeficiais da atmosfera.
+Causada por gotículas água em suspensão.
+Por convenção, o termo se aplica quando a visibilidade for superior a um kilômetro.
+Umidade acima de 80%, mas inferior a de um nevoeiro.
+Visibilidade entre 1km e 2km.
+Cor acinzentada, em consequência de sua constituição rica em poluentes atmosféricos. 
+
+### Névoa seca
+Obstrução da visibilidade nas camadas supeficiais da atmosfera.
+Causada por partículas sólidas muito pequenas e não aquosas em suspensão.
+Dá ao ar uma aparência opalescente.
+Caracterizada pela concentração de minúsculas partículas secas do ar atmosférico.
+Apresenta cores diversas, variando conforme a paisagem.
+Umidade abaixo de 80%
+Visibilidade entre 1km e 5km.
 
