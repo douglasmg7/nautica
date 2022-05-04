@@ -326,3 +326,13 @@ Apresenta cores diversas, variando conforme a paisagem.
 Umidade abaixo de 80%
 Visibilidade entre 1km e 5km.
 
+## Serviços meteorológicos
+Obedecem as normas da OMI (Organização Marítima Internacional).
+As radiocomunicações das mensagens meteorológicas obedecem às disposições da UIT (União Internacional de Telecomunicações).
+A operação do serviço meteorológico na área marítima de responsabilidade do Brasil, cabe ao CHM (Centro de Hidrografia da Marinha).
+CHM é subordinado à DHN (Diretoria de Hidrografia da Marinha).
+
+### Serviços meteorológicos elbaoradso pelo CHM
+Metromarinha - Boletim de condições e previsão de tempo para a Área de responsabilidade do Brasil.
+Boletim de previsão especial
+Cartas Meteorológicas
