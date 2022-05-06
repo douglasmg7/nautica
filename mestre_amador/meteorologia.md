@@ -336,3 +336,6 @@ CHM é subordinado à DHN (Diretoria de Hidrografia da Marinha).
 Metromarinha - Boletim de condições e previsão de tempo para a Área de responsabilidade do Brasil.
 Boletim de previsão especial
 Cartas Meteorológicas
+
+### Carta piloto
+Apresenta informações meteorológicas e oceanográficas de fundamental importancia para o navegante, tanto na faze de planejamento, como na execução da derrota. 
