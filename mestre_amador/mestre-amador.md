@@ -384,6 +384,10 @@ O Roteiro tem como propósito complementar as cartas náuticas brasileiras - nun
 ### Lista de Faróis
 Contém todas as informações sobre faróis, aerofaróis, barcas-faróis, faroletes, balizas, boias luminosas e luzes particulares ou de obstáculos aéreos que interessam aos navegantes, existentes na costa, nos rios, nas lagoas e nas ilhas do Brasil, assim como nas costas e ilhas dos países estrangeiros que possuam suas terras representadas nas cartas náuticas brasileiras.
 
+###  Boia vs Farolete vs Farol
+Boia - visibilidade abaixo de 2 NM
+Farolete - visibilidade abaixo de 2 a 10NM
+Farol - visibilidade de 10 a 20 NM
 
 ### Lista de Auxílios-Rádio
 Tem por finalidade reunir em uma única publicação as informações de maior relevância sobre os auxílios radioelétricos à navegação marítima existentes na costa do Brasil e sobre serviços-rádio (incluindo transmissões via satélite) úteis ao navegante que estiver no oceano Atlântico Sul.
