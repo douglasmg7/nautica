@@ -160,3 +160,7 @@ Desaparecer no horizonte
 
 ### TSM
 Temperatura da Superfície do Mar
+
+### SAR
+Search And Rescue
+Busca e salvamento
