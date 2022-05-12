@@ -76,3 +76,27 @@ Costeira
 ### Classe 3
 Interior
 
+# Comunicação
+
+## Rádio VHF
+Canal 16 - 156,800 MHZ
+
+## Rádio HF SSB
+2181 KHZ
+4215 KHZ
+
+## ERPIB
+406 MHZ
+
+## Celular
+185
+
+# Alimentação
+A partir do segundo dia.
+
+## Sólida
+2 x 350ml por dia.
+
+## Água
+750ml por dia.
+

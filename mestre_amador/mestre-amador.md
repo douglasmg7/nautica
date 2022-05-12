@@ -717,4 +717,48 @@ P = 30%
 C = 2 milhas
 D = .3 * 2 * 10 = 6 milhas
 
+## Instrumentos
 
+### Azimute
+Marcação dos astros.
+Instrumentos utilizados:
+    Alidade de pínulas
+    Taxímetro
+    Círculo azimutal
+    Alidade telescópica
+    Alidade manual
+
+### Taxímetro
+Efetua marcações relativas.
+Deve estar alinhado longuitudinalemente com relação a embarcação.
+
+### Odômetro de superfície
+Mede apenas a distância percorrida.
+
+### Odômetro de fundo
+Usa tubo de pitot ou indução eletromagnética.
+Fica integrado a quilha.
+Mede a velocidade e calcula a distância percorrida.
+Mede velocidade com relação a água, não ao fundo do mar.
+
+### Odômetro Doppler
+Mede velocidade do fundo do mar.
+Mede velocidade e distância.
+Consegue indicar velocidade muito pequenas.
+
+### Corrida de milha
+Procedimento utilizado para aferir o velocimetro e odômetro.
+
+### Estadímetro
+Instrumento destinado a medir distância no mar em função do conhecimento da altura do objeto, que deverá ter mais de 200 metros.
+
+### Estaciógrafo
+Mede a posição da embarcação conhecendo-se os ângulos entre três pontos em terra.
+
+### Radar
+VRM/EBL (Variable Range Mark / Electronic Bearing Line) - Apresenta a distância e a marcação de um alvo.
+STC (Sensitivity Time Control ou Anti-Cluster Sea) - Melhorar a imagem do radar pela supressão dos ecos.
+Pulso curto tem melhor precisão e distância.
+
+### GPS
+SOG - Speed Over Ground
