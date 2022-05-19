@@ -112,6 +112,9 @@ Anemoscópio indica a direção do vento.
 ## Lei de Buys-Ballot ou lei básica dos ventos
 Voltando-se para a direção de onde sopra o vento verdadeiro, a baixa pressão barométrica fica à sua direita no hemisfério norete e à esquerda no hemisfério sul, a cerca de 110 graus da direção de onde sopra o vento.
 
+## Isóbaras
+Os ventos tem ângulo de 20 a 30 graus com relação as isóbaras.
+
 ## Sistema de baixa pressão - Ciclone
 Baixa ou centro de baixa pressão
 Tem forma elíptica
@@ -155,6 +158,12 @@ Aumento de pressão para o centro
 Pode ser a extensão de um anticiclone
 É o oposto do cavado e é geralmente associado a um bom tempo
 A máxima curvatura das isóbaras cocorre ao longo do eixo da crista
+
+## ZCIT - Zona de Convergência InterTropical
+Calmaria - Doldrum.
+Faixa onde os ventos em sentido contrário se anulam.
+Muito quente e úmido.
+Tempestades tropicais e até ciclone tropicais (furacão).
 
 ## O céu anuncia
 Céu azul escuro: vento
@@ -333,9 +342,10 @@ A operação do serviço meteorológico na área marítima de responsabilidade d
 CHM é subordinado à DHN (Diretoria de Hidrografia da Marinha).
 
 ### Serviços meteorológicos elbaoradso pelo CHM
-Metromarinha - Boletim de condições e previsão de tempo para a Área de responsabilidade do Brasil.
+Meteoromarinha - Boletim de condições e previsão de tempo para a Área de responsabilidade do Brasil - Descreve a carta sinótica.
 Boletim de previsão especial
 Cartas Meteorológicas
+Previsão Meteoceanográfica (Emitido pelo Serviço Meteorológico Marinho - SMM, operado pelo CHM)
 
 ### Carta piloto
 Apresenta informações meteorológicas e oceanográficas de fundamental importancia para o navegante, tanto na faze de planejamento, como na execução da derrota. 
